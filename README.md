@@ -1,6 +1,6 @@
-Hi, my name is Alejandro Prieto and welcome to my GIS samples.
-Here, you'll find some of the products I've made using ArcGIS/ArcPro.
-Below is each file name with a description.
+Hi, my name is Alejandro Prieto and welcome to my Github where you'll find my GIS samples.
+Here are some of the products I've made using ArcGIS/ArcPro along with a description to accompany each file.
+If you have any questions, please don't hesitate to contact me via email: alejandroLprieto04@gmail.com
 
 StoryMap:
 -
