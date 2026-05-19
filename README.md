@@ -1,4 +1,5 @@
-Here, you'll find all my examples of maps I've made using ArcGIS/ArcPro
+Here, you'll find all my examples of maps I've made using ArcGIS/ArcPro.
+Below is each file name with a description.
 
 StoryMap:
 -
