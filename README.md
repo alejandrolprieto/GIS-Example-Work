@@ -12,10 +12,6 @@ StoryMap:
 - I've know about ESRI products since 2015 and StoryMaps and ArcMap are one of the first applications I learned GIS on. 
 https://storymaps.arcgis.com/stories/0526e20190bc480980026f9279b4bc3e
 
-Finished ArcGIS/ArcPro/Coding Products:
--
-- List of files and details below
-
 GSA_poster2023_final_AP:
 -
   - I attended the Geological Society of America back in 2023 and presented my work of measuring Biogeography of a family of Mussels based on the fossil record through deep time.
