@@ -1,4 +1,5 @@
-Here, you'll find all my examples of maps I've made using ArcGIS/ArcPro.
+Hi, my name is Alejandro Prieto and welcome to my GIS samples.
+Here, you'll find some of the products I've made using ArcGIS/ArcPro.
 Below is each file name with a description.
 
 StoryMap:
